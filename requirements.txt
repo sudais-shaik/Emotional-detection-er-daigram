@@ -1,0 +1,12 @@
+tensorflow
+keras
+torch
+transformers
+nltk
+pandas
+numpy
+plotly
+streamlit
+google-generativeai
+scikit-learn
+python-dotenv
